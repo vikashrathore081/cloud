@@ -1,11 +1,11 @@
-Welocme to hybrid cloud
+Welocme to hybrid cloud xyzdad
 
 <br />
 
 <pre>
 <?php
 
-print "ifconfig";
+print `ifconfig`;
 
 ?>
 
