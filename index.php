@@ -10,4 +10,4 @@ print `ifconfig`;
 ?>
 
 </pre>
-<img src="d3f31o469s79ud.cloudfront.net/Wall.jpg" height=300px width=400px>
+<img src="http://d2s6vw7boqxw1g.cloudfront.net/Wall.jpg" height=300px width=400px>
